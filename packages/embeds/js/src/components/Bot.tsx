@@ -44,7 +44,6 @@ import { ChatContainer } from "./ConversationContainer/ChatContainer";
 import { sanitizeUrl } from "../lib/sanitizeUrl";
 import { ErrorMessage } from "./ErrorMessage";
 import { CloseIcon } from "./icons/CloseIcon";
-import { LiteBadge } from "./LiteBadge";
 import { ProgressBar } from "./ProgressBar";
 
 export type BotProps = {
